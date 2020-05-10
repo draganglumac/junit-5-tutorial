@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.co.gluedit.tags.TestThree" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-10T09:06:55" hostname="macbooky-13.local" time="0.0">
+  <properties/>
+  <testcase name="testThree()" classname="uk.co.gluedit.tags.TestThree" time="0.0"/>
+  <system-out><![CDATA[Test 3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
